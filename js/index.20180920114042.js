@@ -3,7 +3,7 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 
 
 $(document).ready(function() {
-r=function(){dpi=window.devicePixelRatio;$('.js').attr('src', (dpi>1) ? 'images/timg-810.jpg' : 'images/timg-405.jpg');};
+r=function(){dpi=window.devicePixelRatio;$('.js').attr('src', (dpi>1) ? 'images/mmexport1537206337304-924.jpg' : 'images/mmexport1537206337304-462.jpg');};
 if(!window.HTMLPictureElement){r();}
 
 });

@@ -21,20 +21,17 @@ video:fullscreen{max-width:100% !important;}
 .player1.fullscreen1-active video{max-width:100% !important;}
 html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 #body{background-color:rgb(255,255,255);}
-.pos{position:relative;margin-top:145px;}
+.pos{position:relative;margin-top:111px;}
 .vis{display:block;vertical-align:top;}
 .section{pointer-events:none;min-width:960px;width:960px;margin-left:auto;margin-right:auto;}
 .vis-2{display:inline-block;vertical-align:top;}
-.pos-2{position:relative;margin-left:55px;margin-top:0;}
-.size{min-width:784px;width:784px;min-height:676px;}
+.pos-2{position:relative;margin-left:259px;margin-top:0;}
+.size{min-width:462px;width:462px;min-height:346px;height:346px;}
+.cont{pointer-events:auto;}
+.img{position:absolute;left:0;width:462px;height:346px;top:0;border:0;}
+.img-2{left:0;width:462px;height:346px;top:0;display:inline-block;}
 .vis-3{display:inline-block;vertical-align:top;overflow:hidden;}
-.pos-3{position:relative;margin-left:0;margin-top:0;}
-.size-2{min-width:390px;width:390px;min-height:676px;height:676px;}
-.cont-2{z-index:1;pointer-events:auto;}
+.pos-3{position:relative;margin-left:-299px;margin-top:365px;}
+.size-2{min-width:148px;width:148px;min-height:61px;height:61px;}
 .para{padding-top:0;text-indent:0;padding-right:0;text-align:left;}
-.font{font-family:"Arial Unicode MS", sans-serif;font-size:86px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:rgb(220,50,47);background-color:initial;line-height:162px;letter-spacing:-3.33px;text-shadow:none;}
-.pos-4{position:relative;margin-left:291px;margin-top:-560px;}
-.size-3{min-width:493px;width:493px;min-height:253px;height:253px;}
-.cont-3{z-index:2;pointer-events:auto;}
-.img{position:absolute;left:44px;width:405px;height:253px;top:0;border:0;}
-.img-2{left:44px;width:405px;height:253px;top:0;display:inline-block;}
+.font{font-family:"Arial Unicode MS", sans-serif;font-size:23px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:rgb(38,139,210);background-color:initial;line-height:43px;letter-spacing:normal;text-shadow:none;}
